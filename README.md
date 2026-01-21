@@ -1,15 +1,15 @@
-# [Your Name] - Data Analysis Portfolio
+# [Shadrach Chukwuemeka] - Business Analysis Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
+Welcome! This repository contains the complete template for a professional, one-page Business analysis portfolio website, hosted for free on GitHub Pages.
 
 ## About This Portfolio Template
 
 This portfolio is designed to demonstrate skills in:
-- Data visualization and storytelling
-- Data modeling and analysis
+- Data Analysis: Sales analysis, trend identification, perfomance tracking
+- Data Cleaning: Removing duplicate, handling missing values, structuring datasets
 - Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
-
+- Business Insights: Turning analysis into practical recommendations
+  
 ## 🚀 Projects
 
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
