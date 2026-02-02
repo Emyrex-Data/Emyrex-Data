@@ -8,10 +8,10 @@ I specialize in analyzing sales data, identifying trends, and translating number
 ## About This Portfolio Template
 
 This portfolio is designed to demonstrate skills in:
-- ##Data Analysis##: Sales analysis, trend identification, perfomance tracking
-- ##Data Cleaning##: Removing duplicate, handling missing values, structuring datasets
-- Creating interactive, professional dashboards
-- ##Business Insights##: Turning analysis into practical recommendations
+- **Data Analysis**: Sales analysis, trend identification, perfomance tracking
+- **Data Cleaning**: Removing duplicate, handling missing values, structuring datasets
+- Creating interactive and professional dashboards.
+- **Business Insights**: Turning analysis into practical recommendations
   
 ## 🚀 Projects
 
@@ -23,9 +23,11 @@ This template is set up to showcase your best work. You can easily customize the
 ### Project Title Two
 *A brief description of your project, the tools used, and the key insights derived.*
 
-### Project Title Three
-*A brief description of your pr<img width="8000" height="3658" alt="DASHBOARD YEARLY REPORT 7" src="https://github.com/user-attachments/assets/6e64abe7-1f29-4990-b522-7dcc5d7d7935" />
-oject, the tools used, and the key insights derived.*
+### Project Title 
+##**Yearly Report**
+
+
+![DASHBOARD 7](https://github.com/user-attachments/assets/31e81847-0e89-4f31-ab12-20b30884a3e6)
 
 
 ## 🛠️ Skills
