@@ -8,10 +8,10 @@ I specialize in analyzing sales data, identifying trends, and translating number
 ## About This Portfolio Template
 
 This portfolio is designed to demonstrate skills in:
-- Data Analysis: Sales analysis, trend identification, perfomance tracking
-- Data Cleaning: Removing duplicate, handling missing values, structuring datasets
+- ##Data Analysis##: Sales analysis, trend identification, perfomance tracking
+- ##Data Cleaning##: Removing duplicate, handling missing values, structuring datasets
 - Creating interactive, professional dashboards
-- Business Insights: Turning analysis into practical recommendations
+- ##Business Insights##: Turning analysis into practical recommendations
   
 ## 🚀 Projects
 
