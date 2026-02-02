@@ -15,24 +15,11 @@ This portfolio is designed to demonstrate skills in:
   
 ## 🚀 Projects
 
-This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
-
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
-
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
-
 ### Project Title 
-##**Yearly Report**
-
-
-![DASHBOARD 7](https://github.com/user-attachments/assets/31e81847-0e89-4f31-ab12-20b30884a3e6)
-
+**Yearly Report**
+https://1drv.ms/x/c/b8e37552c2d3d7c2/IQDGIhxqdcTaSpUE0oWFy2QOARBvxirYTV6PCTLtYjjJLIw
 
 ## 🛠️ Skills
-
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
 
 - **Data Analysis**: Sales analysis, Trend identification, Performance tracking.
 - **Data Cleaning**: Removing duplicates, Handling missing values,Structuring datasets .
