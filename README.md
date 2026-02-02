@@ -1,6 +1,9 @@
 # [Shadrach Chukwuemeka] - Business Analysis Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page Business analysis portfolio website, hosted for free on GitHub Pages.
+## About me
+
+I am Shadrach Chukwuemeka, a Junior Business Analyst passionate about helping businesses understand their data and make smarter decisions.
+I specialize in analyzing sales data, identifying trends, and translating numbers into clear, actionable insights that support business growth. I enjoy working with structured data, asking the right questions, and providing recommendations that solve real business problems.
 
 ## About This Portfolio Template
 
@@ -21,17 +24,18 @@ This template is set up to showcase your best work. You can easily customize the
 *A brief description of your project, the tools used, and the key insights derived.*
 
 ### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+*A brief description of your pr<img width="8000" height="3658" alt="DASHBOARD YEARLY REPORT 7" src="https://github.com/user-attachments/assets/6e64abe7-1f29-4990-b522-7dcc5d7d7935" />
+oject, the tools used, and the key insights derived.*
 
 
 ## 🛠️ Skills
 
 Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+- **Data Analysis**: Sales analysis, Trend identification, Performance tracking.
+- **Data Cleaning**: Removing duplicates, Handling missing values,Structuring datasets .
+- **Business Insights**: Turning analysis into practical recommendations.
+- **Tools**: Microsoft Excel (Pivot Table, Charts, Formulas), Google Sheets.
 
 ## 💡 How to Use This Template
 
