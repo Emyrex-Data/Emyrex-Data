@@ -32,3 +32,5 @@ https://1drv.ms/x/c/b8e37552c2d3d7c2/IQDGIhxqdcTaSpUE0oWFy2QOARBvxirYTV6PCTLtYjj
 - Strong focus on business value, not just numbers
 - Clear communication of insights
 - Eager to learn and grow in real-world projects
+
+**Contact me Let’s work together.**
