@@ -1,6 +1,4 @@
-# Shadrach Chukwuemeka 
- 
-**Business Analysis Portfolio**
+# Shadrach Chukwuemeka  -  **Business Analysis Portfolio**
 
 ## About me
 
