@@ -16,12 +16,14 @@ This portfolio is designed to demonstrate skills in:
 ## 🚀 Projects
 
 ### **Yearly Report** 
-The below dashboard shows yearly report of four product, IBM, INTEL and MICROSOFT.
-![Yearly Report Dasboard]<img width="8000" height="3658" alt="DASHBOARD YEARLY REPORT 7" src="https://github.com/user-attachments/assets/3cc183a3-1380-40b0-9a26-ab565991bebe" />
+**The below dashboard shows yearly report of four product, IBM, INTEL and MICROSOFT**.
+
+<img width="8000" height="3658" alt="DASHBOARD YEARLY REPORT 7" src="https://github.com/user-attachments/assets/3cc183a3-1380-40b0-9a26-ab565991bebe" />
 
 ## **Sales By Region**
-The below dashboard shows regional sales report.
-![Regional sales report dashboard]<img width="8000" height="3148" alt="RIGONAL REPORT" src="https://github.com/user-attachments/assets/eabc2f45-794c-4ddc-871b-5714783cd44d" />
+**The below dashboard shows regional sales report**.
+
+<img width="8000" height="3148" alt="RIGONAL REPORT" src="https://github.com/user-attachments/assets/eabc2f45-794c-4ddc-871b-5714783cd44d" />
 
 
 
