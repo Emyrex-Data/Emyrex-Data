@@ -17,7 +17,7 @@ This portfolio is designed to demonstrate skills in:
 
 ### **Yearly Report** 
 the below project shows the sales by year of four product, IBM, INTEL and MICROSOFT.
-https://1drv.ms/x/c/b8e37552c2d3d7c2/IQDGIhxqdcTaSpUE0oWFy2QOARBvxirYTV6PCTLtYjjJLIw
+![image]https://1drv.ms/x/c/b8e37552c2d3d7c2/IQDGIhxqdcTaSpUE0oWFy2QOARBvxirYTV6PCTLtYjjJLIw
 
 ## 🛠️ Skills
 
